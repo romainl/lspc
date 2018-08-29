@@ -7,12 +7,12 @@ LSP Feature                |Mandatory|Vim built-in
 completion                 |yes      |completion
 hover                      |yes      |ballooneval
 go to definition           |yes      |tags via a temp tags file? gd?
-find references            |yes      |?
+find references            |yes      |qf
 document symbols           |yes      |?
 diagnostics                |yes      |makeprg, :make, quickfix
 signature help             |no       |:ptag, etc.
-go to type definition      |no       |?
-go to implementation       |no       |?
+go to type definition      |no       |tags
+go to implementation       |no       |tags
 document highlights        |no       |?
 code actions               |no       |maybe a prompt?
 code lens                  |no       |?
