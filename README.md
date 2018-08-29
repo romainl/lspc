@@ -2,7 +2,7 @@
 
 Ideally, an LSP client should make use of Vim's built-ins as much as possible.
 
-Feature                    |Mandatory|Vim built-in
+LSP Feature                |Mandatory|Vim built-in
 ---------------------------|---------|---
 completion                 |yes      |completion
 hover                      |yes      |ballooneval
