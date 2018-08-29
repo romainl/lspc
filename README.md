@@ -1,8 +1,8 @@
 # lspc
 
-Ideall, an LSP client should make use of Vim's built-ins as much as possible.
+Ideally, an LSP client should make use of Vim's built-ins as much as possible.
 
-feature                    |mandatory|Vim built-in
+Feature                    |Mandatory|Vim built-in
 ---------------------------|---------|---
 completion                 |yes      |completion
 hover                      |yes      |ballooneval
